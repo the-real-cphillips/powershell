@@ -13,7 +13,7 @@ and then converts them to DNG but with embedding the `CR3` in the `DNG`.  For ex
 
 ---
 
-### Motivate (aka On-Demand [Inspirobot][inspirobot] Generator)
+### [Motivate][motivate] (aka On-Demand [Inspirobot][inspirobot] Generator)
 
 Reaches out to the Inspriobot API to present you "Inspiration"
 
@@ -24,4 +24,4 @@ Reaches out to the Inspriobot API to present you "Inspiration"
 ---
 [convert-cr3]: https://github.com/the-real-cphillips/powershell/blob/main/convert-cr3-to-dng.ps1
 [inspirobot]: https://inspirobot.me
-[motivator]: https://github.com/the-real-cphillips/powershell/blob/main/motivate.ps1
+[motivate]: https://github.com/the-real-cphillips/powershell/blob/main/motivate.ps1
